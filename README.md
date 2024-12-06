@@ -12,7 +12,7 @@ This repository is a collection of Python projects focusing on data analysis. Ea
 
 ## 🚀 Projects Included
 
-- [Weather Data Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/Weather_Project)
+- [Weather Data Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/weather_project)
 
 ---
 
@@ -32,5 +32,5 @@ This repository is a collection of Python projects focusing on data analysis. Ea
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/Weather_Project>
+   git clone <https://github.com/beniamine3155/Python_Data_Analysis_Projects>
    ```

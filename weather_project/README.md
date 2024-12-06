@@ -66,5 +66,5 @@ Below are the questions analyzed and solved using Python:
 
 1. Clone this repository:
    ```bash
-   git clone
+   git clone <https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/weather_project>
    ```
