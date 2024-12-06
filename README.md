@@ -8,7 +8,7 @@ Welcome to the **Data Analysis Projects** repository! This repository contains m
 
 - [Weather Data Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/weather_project)
 
-- [Weather Data Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/netflix_project)
+- [Netflix Data Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/netflix_project)
 
 ---
 
