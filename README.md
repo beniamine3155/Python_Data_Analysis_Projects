@@ -10,6 +10,8 @@ Welcome to the **Data Analysis Projects** repository! This repository contains m
 
 - [Netflix Data Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/netflix_project)
 
+- [Covid-19 Data Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/Covid-19_Analysis_and_Visualization)
+
 ---
 
 ## 🛠 Tools & Libraries Used
