@@ -8,9 +8,13 @@ Welcome to the **Data Analysis Projects** repository! This repository contains m
 
 - [Weather Data Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/weather_project)
 
+- [Instagram_Reach_Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/Instagram_Reach_Analysis)
+
 - [Netflix Data Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/netflix_project)
 
 - [Covid-19 Data Analysis](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/Covid-19_Analysis_and_Visualization)
+
+- [Titanic_project](https://github.com/beniamine3155/Python_Data_Analysis_Projects/tree/main/Titanic_project)
 
 ---
 
